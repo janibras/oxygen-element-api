@@ -5,3 +5,5 @@ $this->typographySection(
     ".desktop-menu__link", // CSS selector to target
     $this
 );
+
+?>
