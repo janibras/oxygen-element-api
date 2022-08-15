@@ -1,6 +1,6 @@
 <?php
 
-// Place background inside a section (Not necessary.)
+// Place background inside a section or not. If inside a section:
 $foo = $this->addControlSection("bar", __("Anything You Want"), "", $this);
 
 // Background 
